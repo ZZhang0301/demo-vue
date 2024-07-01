@@ -1,11 +1,3 @@
-/*
- * @Description:
- * @Version: 1.0
- * @Autor: Li Cheng
- * @Date: 2024-06-25 14:15:23
- * @LastEditors: Li Cheng
- * @LastEditTime: 2024-06-25 16:26:35
- */
 import { createWebHistory, createRouter } from 'vue-router';
 
 import Base from '@/views/base.vue';
