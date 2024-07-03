@@ -7,6 +7,16 @@
           点击进入
         </button>
       </router-link>
+      <router-link to="/web3d">
+        <button class="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-md shadow-md transition-colors duration-300 ml-4">
+          3D
+        </button>
+      </router-link>
+      <router-link to="/library">
+        <button class="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-md shadow-md transition-colors duration-300 ml-4">
+          图书馆
+        </button>
+      </router-link>
     </div>
   </div>
 </template>

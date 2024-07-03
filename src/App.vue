@@ -17,7 +17,6 @@ export default {
 
 #app {
   margin: auto;
-  padding: 20px;
   background: #b9e8ff;
   border-radius: 8px;
   height: auto;

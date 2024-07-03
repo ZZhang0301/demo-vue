@@ -1,11 +1,3 @@
-/*
- * @Description:
- * @Version: 1.0
- * @Autor: Li Cheng
- * @Date: 2024-06-24 09:52:27
- * @LastEditors: Li Cheng
- * @LastEditTime: 2024-06-25 10:19:48
- */
 import { defineConfig } from 'vite';
 import vue from '@vitejs/plugin-vue';
 import legacy from '@vitejs/plugin-legacy';
